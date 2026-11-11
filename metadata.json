@@ -1,0 +1,6 @@
+{
+  "name": "SiteLedger",
+  "description": "Construction Site Operations & Project Progress Management Platform. Every Site. Every Resource. Every Update.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
